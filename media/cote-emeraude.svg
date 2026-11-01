@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">La Côte d’Émeraude</title>
+  <desc id="desc">Illustration éditoriale d’un littoral breton, entre mer et terre.</desc>
+  <rect width="800" height="800" fill="#e9e3da"/>
+  <path d="M0 0h800v800H0z" fill="#e7e1d7"/>
+  <path d="M0 405c92-43 166-28 247-59 78-30 122-73 213-61 88 12 121 68 195 56 59-9 98-46 145-59v518H0z" fill="#526e70"/>
+  <path d="M0 478c98-44 169-19 261-54 87-33 129-79 208-67 73 12 117 67 193 57 54-7 94-37 138-51" fill="none" stroke="#8fa7a0" stroke-width="5" opacity=".8"/>
+  <path d="M0 533c101-43 173-16 267-50 89-32 130-79 205-65 76 14 120 69 195 58 53-8 94-37 133-48" fill="none" stroke="#b8c5b9" stroke-width="3" opacity=".85"/>
+  <path d="M800 184c-63 7-99 28-145 74-45 45-76 87-126 109-56 24-116 9-172 28-61 20-101 67-154 98-61 35-124 35-203 73v234h800z" fill="#c4b59e"/>
+  <path d="M800 217c-58 11-91 35-132 77-47 48-79 91-135 111-58 21-116 5-171 27-55 21-96 65-151 96-62 35-126 42-211 79" fill="none" stroke="#f5f0e8" stroke-width="13"/>
+  <path d="M800 217c-58 11-91 35-132 77-47 48-79 91-135 111-58 21-116 5-171 27-55 21-96 65-151 96-62 35-126 42-211 79" fill="none" stroke="#a84e50" stroke-width="2" stroke-dasharray="8 12"/>
+  <circle cx="590" cy="133" r="42" fill="#c77c5b"/>
+  <g fill="#6d7761" opacity=".78">
+    <circle cx="690" cy="340" r="20"/><circle cx="735" cy="310" r="13"/><circle cx="650" cy="388" r="15"/>
+    <circle cx="512" cy="483" r="13"/><circle cx="553" cy="465" r="9"/><circle cx="437" cy="550" r="16"/>
+  </g>
+  <text x="58" y="96" fill="#a84e50" font-family="Arial, sans-serif" font-size="18" letter-spacing="5">CÔTE D’ÉMERAUDE</text>
+  <text x="58" y="137" fill="#272725" font-family="Georgia, serif" font-size="31">Entre terre &amp; mer</text>
+  <path d="M80 710h112" stroke="#a84e50" stroke-width="2"/>
+  <text x="80" y="746" fill="#5e5b55" font-family="Arial, sans-serif" font-size="15" letter-spacing="3">BRETAGNE · FRANCE</text>
+</svg>

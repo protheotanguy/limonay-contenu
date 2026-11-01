@@ -1,0 +1,174 @@
+{
+  "hero": {
+    "eyebrow": "CÔTE D’ÉMERAUDE · BRETAGNE",
+    "title": "Bienvenue au",
+    "emphasis": "Domaine du Limonay.",
+    "intro": "Nous sommes heureux de vous accueillir. Ce guide rassemble les informations utiles pour votre séjour.",
+    "image": "/media/limonay-facade.jpg",
+    "imageAlt": "Façade et jardin du Domaine du Limonay"
+  },
+  "wifi": {
+    "eyebrow": "CONNEXION WI-FI",
+    "title": "Connectez-vous au Wi-Fi",
+    "network": "@TIRELGUERIN",
+    "password": "@TIREL35guerin",
+    "note": ""
+  },
+  "contents": {
+    "eyebrow": "VOTRE GUIDE DE SÉJOUR",
+    "title": "Tout pour",
+    "emphasis": "votre séjour.",
+    "intro": "Horaires, services et informations pratiques : retrouvez ici l’essentiel pour votre séjour et quelques idées de sorties autour du Domaine.",
+    "items": [
+      { "number": "01", "title": "Votre séjour", "description": "Chambres · Services · Informations pratiques", "anchor": "sejour", "image": "/media/chambre-confort-hotel-1-.jpeg", "imageAlt": "Chambre du Domaine" },
+      { "number": "02", "title": "Séjour à vélo", "description": "Accueil vélo · Équipements · Itinéraires", "anchor": "velo", "image": "/media/local-velo1.jpeg", "imageAlt": "Local vélo du Domaine" },
+      { "number": "03", "title": "Nos engagements", "description": "Nos actions au quotidien", "anchor": "engagements", "image": "/media/miel.jpeg", "imageAlt": "Produit local" },
+      { "number": "04", "title": "Le Bistrot 1936", "description": "La cuisine · La carte · Réserver", "anchor": "gastronomie", "image": "/media/bistrot.jpg", "imageAlt": "La salle du Bistrot 1936" },
+      { "number": "05", "title": "Le petit-déjeuner", "description": "Horaires · Lieu · Tarifs", "anchor": "petitdejeuner", "image": "/media/petit-dejeuner.jpg", "imageAlt": "Le buffet du petit-déjeuner" },
+      { "number": "06", "title": "Spa & bien-être", "description": "Piscine · Sauna · Soins", "anchor": "bienetre", "image": "/media/piscine.jpg", "imageAlt": "La piscine du Domaine" },
+      { "number": "07", "title": "Découvrir les alentours", "description": "Saint-Malo · Cancale · Dinard", "anchor": "decouvrir", "image": "/media/cote-emeraude.svg", "imageAlt": "Illustration de la Côte d’Émeraude, entre terre et mer" }
+    ]
+  },
+  "heritage": {
+    "eyebrow": "SAINT-MÉLOIR-DES-ONDES",
+    "title": "Le Domaine du Limonay,",
+    "emphasis": "depuis 1936.",
+    "intro": "Le Domaine est situé au cœur de la Côte d’Émeraude.",
+    "image": "/media/limonay-jardins.jpg",
+    "imageAlt": "Jardins du Domaine du Limonay"
+  },
+  "stay": {
+    "eyebrow": "VOTRE SÉJOUR",
+    "title": "Les informations",
+    "emphasis": "pratiques.",
+    "intro": "Horaires, services et tarifs : retrouvez ici les informations pratiques de votre séjour.",
+    "information": [
+      { "icon": "clock", "title": "Arrivée & départ", "text": "Les chambres sont disponibles à partir de 15h et doivent être libérées avant 12h. Un départ jusqu’à 14h est possible sur demande auprès de la réception, avec un supplément de 25 €." },
+      { "icon": "bell", "title": "Réception", "text": "La réception est ouverte tous les jours de 7h30 à 22h30. Depuis le téléphone de votre chambre, composez le 9 pour nous joindre." },
+      { "icon": "phone", "title": "Téléphone de la chambre", "text": "Pour appeler une autre chambre, composez le 10 suivi du numéro de la chambre. Exemple : pour la chambre 7, composez le 1007." },
+      { "icon": "car", "title": "Parking", "text": "Un parking gratuit est à disposition devant l’hôtel. Pour accéder au parking, le code d’ouverture de la barrière est le : 3020. Vous le retrouvez également au dos de votre clé de chambre." },
+      { "icon": "paw", "title": "Séjourner avec son chien", "text": "Les chiens sont acceptés à l’hôtel et au restaurant. Supplément : 22 € par nuit, avec coussin, gamelles et sac à déjections. En cas de dégradation causée par un chien, un forfait de 500 € sera facturé." },
+      { "icon": "alert", "title": "Dégradations ou objets manquants", "text": "En cas de dégradation, de casse ou de vol d’un élément de la chambre, un forfait de 500 € sera facturé au départ." },
+      { "icon": "bed", "title": "Services en chambre", "text": "Vous trouverez dans votre chambre un coffre-fort, un plateau de courtoisie, une carafe d’eau filtrée, des peignoirs, des chaussons et un sèche-cheveux. Des serviettes pour la piscine sont disponibles." },
+      { "icon": "bell", "title": "À votre disposition", "text": "Vous pouvez demander un réveil, des produits de dépannage, du matériel de repassage ou des jeux de société. Un service de blanchisserie et la location de raquettes de ping-pong sont également proposés." },
+      { "icon": "smoking", "title": "Chambres non-fumeurs", "text": "Il est interdit de fumer dans toutes les chambres, y compris les cigarettes électroniques. Toute infraction à cette règle pourra entraîner une sanction financière." },
+      { "icon": "tv", "title": "Télévision", "text": "Une télécommande est à votre disposition dans la chambre. La liste des chaînes est disponible ci-dessous." },
+      { "icon": "car", "title": "Taxis", "text": "Taxis Cancale : 02 99 89 87 20\nTaxi Gérard : 06 85 04 97 35\nTaxi Stéphane : 06 99 65 35 35" },
+      { "icon": "exit", "title": "En cas d’évacuation", "text": "En cas d’évacuation, rendez-vous sur le parking, près du court de tennis. Les consignes sont affichées dans votre chambre. Si vous avez besoin d’aide pour évacuer, informez la réception." }
+    ],
+    "channels": [
+      { "number": "1", "name": "TF1" }, { "number": "2", "name": "France 2" }, { "number": "3", "name": "France 3 Bretagne" }, { "number": "4", "name": "France 4" },
+      { "number": "5", "name": "France 5" }, { "number": "6", "name": "M6" }, { "number": "7", "name": "Arte" }, { "number": "8", "name": "LCP" },
+      { "number": "9", "name": "W9" }, { "number": "10", "name": "TMC" }, { "number": "11", "name": "TFX" }, { "number": "12", "name": "Gulli" },
+      { "number": "13", "name": "BFM TV" }, { "number": "14", "name": "CNEWS" }, { "number": "15", "name": "LCI" }, { "number": "16", "name": "Franceinfo" },
+      { "number": "17", "name": "CSTAR" }, { "number": "18", "name": "T18" }, { "number": "19", "name": "NOVO19" }, { "number": "20", "name": "TF1 Séries/Films" },
+      { "number": "21", "name": "L’Équipe" }, { "number": "22", "name": "6ter" }, { "number": "23", "name": "RMC Story" }, { "number": "24", "name": "RMC Découverte" },
+      { "number": "25", "name": "Chérie 25" }, { "number": "35", "name": "TVR" }
+    ],
+    "ratesTitle": "Tarifs des chambres et suppléments",
+    "ratesIntro": "Les prix dépendent de la chambre et de la période. Pour connaître le tarif de vos dates, contactez la réception.",
+    "roomRates": [
+      { "category": "Standard", "price": "95 € à 209 €" },
+      { "category": "Confort", "price": "105 € à 219 €" },
+      { "category": "Confort Premium", "price": "125 € à 269 €" },
+      { "category": "Supérieure", "price": "135 € à 249 €" },
+      { "category": "Suite Junior Premium", "price": "155 € à 299 €" },
+      { "category": "Suite Villa", "price": "175 € à 289 €" },
+      { "category": "Suite Prestige", "price": "190 € à 334 €" }
+    ],
+    "supplements": [
+      { "label": "Départ tardif jusqu’à 14h", "price": "25 €" },
+      { "label": "Chien", "price": "22 € / nuit" },
+      { "label": "Lit bébé", "price": "Gratuit, sur demande" },
+      { "label": "Taxe de séjour", "price": "2,05 € / personne / nuit" },
+      { "label": "Lit supplémentaire adulte ou enfant", "price": "20 €" },
+      { "label": "Location d’une raquette de ping-pong", "price": "1 € / jour" },
+      { "label": "Location d’un ventilateur", "price": "5 € / jour" },
+      { "label": "Envoi postal d’un objet oublié", "price": "À partir de 30 €" }
+    ]
+  },
+  "cycling": {
+    "eyebrow": "À VÉLO",
+    "title": "Vous venez",
+    "emphasis": "à vélo ?",
+    "intro": "La réception peut vous renseigner sur les itinéraires, la location de vélos et l’accès au local.",
+    "image": "/media/local-velo2.jpeg",
+    "imageAlt": "Espace vélo du Domaine",
+    "routeUrl": "https://www.saint-malo-tourisme.com/explorer-notre-destination/expeditions-nature/balades-velo/velos/",
+    "services": [
+      "Une carte vélo est également disponible à la réception.",
+      "Pour connaître les conditions d’accès au local à vélos, adressez-vous à la réception."
+    ]
+  },
+  "commitments": {
+    "eyebrow": "AU QUOTIDIEN",
+    "title": "Nos engagements",
+    "emphasis": "au Domaine.",
+    "intro": "Nous mettons en avant les produits de la région et cherchons à limiter notre consommation de ressources.",
+    "items": [
+      { "category": "01 / PRODUITS LOCAUX", "title": "Les produits de la région", "text": "Nous mettons en avant les producteurs, artisans et savoir-faire de la région.", "image": "/media/miel.jpeg", "imageAlt": "Miel et produits locaux" },
+      { "category": "02 / ENVIRONNEMENT", "title": "Les gestes du quotidien", "text": "Vous trouverez des fontaines d’eau et des poubelles de tri dans les couloirs. Le linge peut être réutilisé pendant votre séjour.", "image": "/media/limonay-jardins.jpg", "imageAlt": "Jardins du Domaine" },
+      { "category": "03 / LABEL", "title": "La Clef Verte", "text": "Le Domaine a obtenu le label Clef Verte en 2026.", "image": "/media/limonay-facade.jpg", "imageAlt": "Domaine du Limonay" }
+    ]
+  },
+  "restaurant": {
+    "eyebrow": "LA TABLE DU DOMAINE",
+    "title": "Bistrot",
+    "emphasis": "1936.",
+    "intro": "Le Bistrot 1936 propose une cuisine de saison inspirée des produits du terroir.",
+    "image": "/media/bistrot.jpg",
+    "imageAlt": "La salle du Bistrot 1936",
+    "cuisine": "Cuisine de saison, produits du terroir",
+    "hours": "Pour connaître les horaires du jour, renseignez-vous à la réception.",
+    "booking": "Pour réserver, adressez-vous à la réception.",
+    "lunchMenu": "Formule du midi à partir de 19 €",
+    "bistrotMenu": "Menu Bistrot à partir de 34 €",
+    "roomService": "Supplément de 5 € pour le service en chambre",
+    "menuUrl": "https://www.domaine-du-limonay.com/media/original/carte-bistrot1936-fr.pdf"
+  },
+  "breakfast": {
+    "eyebrow": "LE MATIN",
+    "title": "Le petit-déjeuner",
+    "emphasis": "à l’Espace La Gouesnière.",
+    "intro": "Un buffet sucré et salé vous attend chaque matin.",
+    "hours": "7h30 – 10h",
+    "location": "Espace La Gouesnière",
+    "price": "19 € à partir de 13 ans · 10 € de 4 à 8 ans · 13 € de 9 à 12 ans",
+    "image": "/media/petit-dejeuner.jpg",
+    "imageAlt": "Un petit-déjeuner servi au Domaine du Limonay"
+  },
+  "wellness": {
+    "eyebrow": "PISCINE · SAUNA · SOINS",
+    "title": "Piscine, sauna",
+    "emphasis": "et soins.",
+    "intro": "Après une journée au grand air, choisissez votre façon de ralentir : quelques longueurs, une séance de sauna ou un soin.",
+    "image": "/media/piscine.jpg",
+    "imageAlt": "La piscine intérieure et le bain à remous du Domaine du Limonay",
+    "poolHours": "9h – 20h30",
+    "poolRules": "Piscine intérieure en accès libre. Maillot de bain obligatoire. Les enfants doivent rester sous la surveillance d’un adulte.",
+    "sauna": "Réservation auprès de la réception. 15 € les 30 minutes, jusqu’à 4 personnes. Le sauna n’est pas accessible aux enfants de moins de 12 ans.",
+    "careUrl": "https://www.domaine-du-limonay.com/media/original/livret-soins.pdf"
+  },
+  "nearby": {
+    "eyebrow": "À VISITER AUTOUR DU DOMAINE",
+    "title": "Que voir",
+    "emphasis": "aux alentours ?",
+    "intro": "Saint-Malo, Cancale et Dinard se trouvent à proximité du Domaine. Voici quelques idées de visites.",
+    "destinations": [
+      { "category": "01 / SAINT-MALO", "name": "Saint-Malo", "description": "Les remparts et la ville intra-muros.", "ideas": ["Visiter les forts et découvrir leur histoire.", "Se promener à Saint-Servan et découvrir la cité d’Aleth.", "Repérer les malouinières, anciennes demeures d’armateurs du XVIIIe siècle.", "Découvrir Saint-Malo à pied, en petit train, à cheval ou en bateau."], "url": "https://www.saint-malo-tourisme.com/", "image": "/media/saint-malo.jpg", "imageAlt": "Le Fort National et le bord de mer à Saint-Malo", "imageCredit": "Ninnjas · Wikimedia Commons", "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Stmalo.jpg" },
+      { "category": "02 / CANCALE", "name": "Cancale", "description": "Le port, les huîtres et la pointe du Grouin.", "ideas": ["Faire une sortie à bord de La Cancalaise, voilier traditionnel.", "Se promener sur le port.", "Déguster des huîtres à la Ferme Marine.", "Partir en mer avec l’association AL LARK pour observer les dauphins.", "Suivre le sentier côtier jusqu’à la pointe du Grouin."], "url": "https://www.saint-malo-tourisme.com/", "image": "/media/cancale.jpg", "imageAlt": "Le port de la Houle à Cancale", "imageCredit": "Renhour48 · Wikimedia Commons (CC0)", "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cancale_-_Le_port_de_la_Houle_29.jpg" },
+      { "category": "03 / DINARD", "name": "Dinard", "description": "Les villas Belle Époque, les halles et la plage de l’Écluse.", "ideas": ["Découvrir les produits bretons aux halles.", "Admirer les villas Belle Époque.", "Découvrir l’usine marémotrice de la Rance et le paysage depuis le barrage.", "Se promener sur la plage de l’Écluse ou le long de la côte."], "url": "https://www.dinardemeraudetourisme.com/", "image": "/media/dinard.jpg", "imageAlt": "Villas en bord de mer à Dinard", "imageCredit": "Adrian Suter · Wikimedia Commons (domaine public)", "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Dinard_pointe_de_la_Malouine.jpg" }
+    ],
+    "morePlaces": "Vous pouvez aussi découvrir Dinan, Saint-Suliac, Dol-de-Bretagne et bien d’autres villages autour du Domaine.",
+    "restaurantIntro": "Pour choisir une adresse, demandez conseil à la réception.",
+    "restaurants": []
+  },
+  "contact": {
+    "title": "Contacter",
+    "emphasis": "la réception.",
+    "intro": "Appelez-nous, écrivez-nous ou passez à la réception.",
+    "phone": "02 57 64 10 00",
+    "email": "resa@domaine-du-limonay.com",
+    "address": "1 Le Limonay, 35350 Saint-Méloir-des-Ondes"
+  }
+}
